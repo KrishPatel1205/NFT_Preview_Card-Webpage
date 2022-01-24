@@ -41,4 +41,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@krishpatel1205](https://www.github.com/krishpatel1205/)
+-[@krishpatel1205](https://www.github.com/krishpatel1205/)
